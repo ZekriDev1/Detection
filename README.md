@@ -17,7 +17,7 @@ This project uses [YOLOv8](https://github.com/ultralytics/ultralytics) + OpenCV 
 - ✅ Animals: `dog`, `cat`, `horse`, etc.
 - ❌ Ignores humans, cars, random stuff
 
-![Demo GIF or Screenshot](preview.png)
+![Demo GIF or Screenshot](preview.jpg)
 
 ---
 
